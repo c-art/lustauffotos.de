@@ -1,0 +1,12 @@
+@import "flavors/default/spgm_style.css";
+
+body2 {
+  background-color: #efefef;
+  color: #000000;
+  font-family: verdana, arial, "sans-serif";
+  text-align: center;
+}
+
+h1 {
+  font-size: 18pt;
+}

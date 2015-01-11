@@ -1,0 +1,17 @@
+INSERT INTO 41_7_kategorie2 VALUES (173, '3', 'Bestof TobiCam', '2');
+INSERT INTO 45_7_fotos VALUES (1047, '173', '2', 'Bild1047', '03_fun/173/bild0.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1048, '173', '2', 'Bild1048', '03_fun/173/bild1.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1049, '173', '2', 'Bild1049', '03_fun/173/bild2.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1050, '173', '2', 'Bild1050', '03_fun/173/bild3.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1051, '173', '2', 'Bild1051', '03_fun/173/bild4.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1052, '173', '2', 'Bild1052', '03_fun/173/bild5.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1053, '173', '2', 'Bild1053', '03_fun/173/bild6.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1054, '173', '2', 'Bild1054', '03_fun/173/bild7.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1055, '173', '2', 'Bild1055', '03_fun/173/bild8.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1056, '173', '2', 'Bild1056', '03_fun/173/bild9.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1057, '173', '2', 'Bild1057', '03_fun/173/bild10.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1058, '173', '2', 'Bild1058', '03_fun/173/bild11.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1059, '173', '2', 'Bild1059', '03_fun/173/bild12.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1060, '173', '2', 'Bild1060', '03_fun/173/bild13.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1061, '173', '2', 'Bild1061', '03_fun/173/bild14.jpg', '', '', '1', '1', '1', '', '', '', '');
+INSERT INTO 45_7_fotos VALUES (1062, '173', '2', 'Bild1062', '03_fun/173/bild15.jpg', '', '', '1', '1', '1', '', '', '', '');

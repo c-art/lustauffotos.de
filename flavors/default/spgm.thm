@@ -1,0 +1,58 @@
+<?php
+
+
+
+###########################################
+
+#       SPGM's default theme file
+
+#
+
+################# by Sylvain Pajot ########
+
+
+
+# the gallery icon (small size)
+
+$cfg['theme']['gallerySmallIcon'] = '';
+
+
+
+# the gallery icon (thumbnail size)
+
+$cfg['theme']['galleryBigIcon'] = '';
+
+
+
+# the image that highlights new pictures
+
+$cfg['theme']['newItemIcon'] = 'new.png';
+
+
+
+# previous picture button icon
+
+$cfg['theme']['previousPictureIcon'] = '../../img/arrow-leftm.gif';
+
+
+
+# next picture button icon
+
+$cfg['theme']['nextPictureIcon'] = '../../img/arrow-rightm.gif';
+
+
+
+# previous thumnail page button icon
+
+$cfg['theme']['previousPageIcon'] = 'previous_page.png';
+
+
+
+# next thumnail page button icon
+
+$cfg['theme']['nextPageIcon'] = 'next_page.png';
+
+
+
+?>
+

@@ -1,0 +1,43 @@
+/*   Copyright by C-ART WEBDESIGN '2001 - www.c-art-web.de - (c-art@web.de)    */
+/* CSS File for virtualbum.de */
+
+
+.menulink        {font-family:Arial, Helvetica, sans-serif; font-size:10pt; color:#FFFFFF; text-decoration:none; font-weight:normal;}
+.menulink:hover  {font-family:Arial, Helvetica, sans-serif; font-size:10pt; color:#CCCCCC; text-decoration:none; font-weight:normal;}
+.menuheadln      {font-family:Arial, Helvetica, sans-serif; font-size:11pt;  color:#000000; text-decoration:none; font-weight:bold;}
+
+.text        {font-family:Arial, Helvetica, sans-serif; font-size:10pt; color:#222222; text-decoration:none; font-weight:normal; line-height:17pt;}
+.textbold    {font-family:Arial, Helvetica, sans-serif; font-size:10pt; color:#222222; text-decoration:none; font-weight:bold; line-height:17pt;}
+
+.link        {font-family:Arial, Helvetica, sans-serif; font-size:10pt; color:#000000; text-decoration:none; font-weight:normal;}
+.link:hover  {font-family:Arial, Helvetica, sans-serif; font-size:10pt; color:#000000; text-decoration:underline; font-weight:normal;}
+
+.headln      {font-family:Arial, Helvetica, sans-serif; font-size:12pt;  color:#000000; text-decoration:none; font-weight:bold;}
+
+.mainbody    {scrollbar-base-color:#3366CC;
+              scrollbar-face-color:#3366CC;
+              scrollbar-highlight-color:#FFF200;
+              scrollbar-arrow-color: #FFF200;
+              scrollbar-3d-light-color:#FFF200;
+              scrollbar-shadow-color:#999999;
+              scrollbar-darkshadow-color:#000000;
+              scrollbar-track-color:#DDDDDD;
+              background-color:#AEBFE3;
+              }
+
+.otherbody    {background-color:#4E76DB;
+              }
+
+.tableborder {
+           border-style:solid;
+           border-width:2px;
+           border-color:#3366CC
+           }
+
+.picborder {
+           border-style:solid;
+           border-width:3px;
+           border-color:#4E76DB;
+           }
+
+.alink   {font-family: Arial,Helvetica, sans-serif; font-size:8pt;  color:#000000; text-decoration:none; font-style:italic;}

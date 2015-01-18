@@ -68,9 +68,9 @@
  $mysql_tbpicsend= '44_7_fremdefotos';
  $mysql_tbpic  = '45_7_fotos';
  $mysql_tbcammsg = '46_7_cammessages';
- $mysql_tbgb   = '47_7_lafgästebuch';
- 
- 
+ $mysql_tbgb   = '47_7_lafgaestebuch';
+
+
 
  //$mysql_tbstat = mysql_fetch_tabname("\_stat",$connr);
 

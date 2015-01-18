@@ -31,7 +31,7 @@
   </script>
   <br>
   <table border=0 width="100%">
-   <tr><td valign=middle align=center height=400><a href="http://laf.c-art-web.com/album_frame.php"  class="link"><img src="img/start.jpg" alt="Start" border=0></a></td></tr>
+   <tr><td valign=middle align=center height=400><a href="php/album_frame.php"  class="link"><img src="img/start.jpg" alt="Start" border=0></a></td></tr>
    <tr><td align=center>&nbsp;</td></tr>
    <tr><td align=center>&nbsp;</td></tr>
    <tr><td align=center class="alink">best viewed in 1024*768, IE or NE, Cookies and Javascript enabled<br><a href="http://www.c-art-web.de/sign/index.php?id=virtualbum_private" class="alink">(c) by C-Art Webdesign'01 - www.c-art-web.de</a></td></tr>

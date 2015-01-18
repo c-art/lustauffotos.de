@@ -1,12 +1,7 @@
 <?php
-
-   header( 'Window-target: _top');
-   header( 'Location: http://lustauffotos.freeflux.net' );
-   exit;
-   
    /*   Copyright by C-ART WEBDESIGN '2004 - www.c-art-web.de - (c-art@web.de)    */
    if ($ecard) header("Location: album_frame.php?ecard=$ecard");
-   
+
    include( 'design.header.php' );
 ?>
 

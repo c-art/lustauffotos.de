@@ -1,0 +1,1 @@
+|a:11:{s:6:"binary";s:2:"gm";s:11:"cmykSupport";s:3:"off";s:12:"compositeCmd";s:9:"composite";s:11:"jpegQuality";s:2:"75";s:4:"path";s:9:"/usr/bin/";s:20:"removeMetaDataSwitch";s:10:"+profile|*";s:9:"versionOk";s:1:"1";s:10:"_callbacks";s:17:"getSiteAdminViews";s:16:"_requiredCoreApi";s:3:"7,0";s:18:"_requiredModuleApi";s:3:"3,0";s:8:"_version";s:5:"1.0.7";}

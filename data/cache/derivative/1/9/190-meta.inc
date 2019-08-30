@@ -1,0 +1,1 @@
+|a:5:{s:14:"derivativePath";s:89:"/kunden/114853_55286/produktiv/lustauffotos.com/gallery/data/cache/derivative/1/9/190.dat";s:14:"derivativeType";i:1;s:8:"mimeType";s:10:"image/jpeg";s:8:"parentId";i:186;s:14:"pseudoFileName";s:23:"last-days-in-perths.jpg";}

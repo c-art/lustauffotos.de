@@ -1,0 +1,1 @@
+<?php function GalleryFastDownload() { return $GLOBALS['gallery']->fastDownload('albums/Australia/beach-fish-chips/img-0362.jpg', 'img-0362.jpg', 'Wed, 15 Nov 2006 12:36:36 GMT', 'image/jpeg', 96917);} ?>
